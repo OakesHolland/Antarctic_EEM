@@ -1,0 +1,15 @@
+﻿,Asterias amurensis,Macroalgae,Particulate organic matter,Herbivores,Benthic fish,Echinoderms (O),Echinoids (O),Crustaceans (P),Amphipods (P),Echinoderms (P),Gastropods (P),Anemones (P),Pycnogonids (P),Polychaetes (P)
+Asterias amurensis,-1,0,0,1,-1,0,1,0,0,1,1,1,0,0
+Macroalgae,0,-1,0,-1,0,-1,-1,0,0,0,0,0,0,0
+Particulate organic matter,0,0,-1,-1,-1,-1,-1,-1,0,-1,0,0,-1,0
+Herbivores,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Benthic fish,1,0,1,1,-1,0,1,1,1,1,1,1,1,1
+Echinoderms (O),0,1,1,1,0,-1,1,1,1,0,1,0,0,-1
+Echinoids (O),-1,1,1,1,-1,-1,-1,0,1,0,0,-1,-1,0
+Crustaceans (P),0,0,1,1,-1,-1,0,-1,0,0,0,0,0,-1
+Amphipods (P),0,0,0,1,-1,-1,-1,0,-1,0,0,-1,0,0
+Echinoderms (P),-1,0,1,1,-1,0,0,0,0,-1,0,-1,-1,0
+Gastropods (P),-1,0,0,1,-1,1,0,0,0,0,-1,-1,-1,-1
+Anemones (P),1,0,0,1,-1,0,1,0,1,1,1,-1,-1,0
+Pycnogonids (P),0,0,1,1,-1,0,1,0,0,1,1,1,-1,-1
+Polychaetes (P),0,0,0,1,-1,1,0,1,0,0,1,0,1,-1
